@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shop", "shop\shop.csproj", "{29C2700B-07CB-43C8-98E5-1A85E613C9A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fruitOrVagitable", "fruitOrVagitable\fruitOrVagitable.csproj", "{D0EF4C78-50C0-489D-AADC-5042A7DE3624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29C2700B-07CB-43C8-98E5-1A85E613C9A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C2700B-07CB-43C8-98E5-1A85E613C9A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C2700B-07CB-43C8-98E5-1A85E613C9A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C2700B-07CB-43C8-98E5-1A85E613C9A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0EF4C78-50C0-489D-AADC-5042A7DE3624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0EF4C78-50C0-489D-AADC-5042A7DE3624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0EF4C78-50C0-489D-AADC-5042A7DE3624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0EF4C78-50C0-489D-AADC-5042A7DE3624}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

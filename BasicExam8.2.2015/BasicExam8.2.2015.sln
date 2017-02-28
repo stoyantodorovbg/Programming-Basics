@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicExam8.2.2015", "BasicExam8.2.2015\BasicExam8.2.2015.csproj", "{DBC96C3A-9462-4CAD-A18C-8CA86F6770B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProspectInHospitality", "ProspectInHospitality\ProspectInHospitality.csproj", "{C94885B2-FD46-49C4-A47B-0E09869C4FA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuResult", "SudokuResult\SudokuResult.csproj", "{A564E55B-17E3-4B2C-B387-F1F5A55E83D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBC96C3A-9462-4CAD-A18C-8CA86F6770B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC96C3A-9462-4CAD-A18C-8CA86F6770B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC96C3A-9462-4CAD-A18C-8CA86F6770B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC96C3A-9462-4CAD-A18C-8CA86F6770B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C94885B2-FD46-49C4-A47B-0E09869C4FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94885B2-FD46-49C4-A47B-0E09869C4FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94885B2-FD46-49C4-A47B-0E09869C4FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94885B2-FD46-49C4-A47B-0E09869C4FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A564E55B-17E3-4B2C-B387-F1F5A55E83D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A564E55B-17E3-4B2C-B387-F1F5A55E83D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A564E55B-17E3-4B2C-B387-F1F5A55E83D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A564E55B-17E3-4B2C-B387-F1F5A55E83D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

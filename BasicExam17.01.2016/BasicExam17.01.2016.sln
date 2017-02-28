@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicExam17.01.2016", "BasicExam17.01.2016\BasicExam17.01.2016.csproj", "{0FE5D13A-3DC6-4BA9-A1B0-091FB06EB4B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeTicoon", "CakeTicoon\CakeTicoon.csproj", "{EA729470-E82D-4E6C-AFA3-21BE50999137}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FE5D13A-3DC6-4BA9-A1B0-091FB06EB4B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE5D13A-3DC6-4BA9-A1B0-091FB06EB4B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE5D13A-3DC6-4BA9-A1B0-091FB06EB4B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE5D13A-3DC6-4BA9-A1B0-091FB06EB4B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA729470-E82D-4E6C-AFA3-21BE50999137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA729470-E82D-4E6C-AFA3-21BE50999137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA729470-E82D-4E6C-AFA3-21BE50999137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA729470-E82D-4E6C-AFA3-21BE50999137}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firma", "Firma\Firma.csproj", "{D498E59C-CCE7-4E4B-A267-9FD68846813D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hotelRoom", "hotelRoom\hotelRoom.csproj", "{671A70E0-BBDC-4CF2-9C1B-CB3BDDEE58D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D498E59C-CCE7-4E4B-A267-9FD68846813D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D498E59C-CCE7-4E4B-A267-9FD68846813D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D498E59C-CCE7-4E4B-A267-9FD68846813D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D498E59C-CCE7-4E4B-A267-9FD68846813D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{671A70E0-BBDC-4CF2-9C1B-CB3BDDEE58D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671A70E0-BBDC-4CF2-9C1B-CB3BDDEE58D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671A70E0-BBDC-4CF2-9C1B-CB3BDDEE58D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671A70E0-BBDC-4CF2-9C1B-CB3BDDEE58D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
